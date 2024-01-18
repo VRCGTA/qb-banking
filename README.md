@@ -9,7 +9,7 @@
 
 ## Exports
 ```lua
-exports['qb-banking']:ExportName() -- replace export name with desired from below and needed arguments
+exports['okokBanking']:ExportName() -- replace export name with desired from below and needed arguments
 ```
 
 ### CreatePlayerAccount
